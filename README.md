@@ -1,7 +1,7 @@
 This project aims to find conserved and variable regions in the VDJ genes of mouse and/or human by analizing available data on BCRs, more specifically IgEs.
 This GitHub repository is meant for storage, curation and organization of that data.
 # Descriptions:
-Commands: these are scripts of Cloudshell (bash) to extract VDJ sequences from bigger files (e.g. CSV).
+Commands: these are shell scripts to extract VDJ sequences from bigger files (e.g. CSV).
 
 MICE_Sequeneces: directory for curated DNA sequences.
 
