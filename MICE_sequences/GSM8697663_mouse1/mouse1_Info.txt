@@ -1,0 +1,11 @@
+Number of IGHE sequences:
+225
+
+Top V genes used:
+    225 IGHV1-72
+
+Top D genes used:
+    210 IGHD1-1
+
+Top J genes used:
+    225 IGHJ2
