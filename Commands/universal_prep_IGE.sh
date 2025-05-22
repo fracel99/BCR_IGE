@@ -8,7 +8,7 @@ MOUSE_ID="$2"
 DOWNLOAD_LINK="$3"
 WORKDIR="${GEO_ID}_${MOUSE_ID}"
 
-cd ~/BCR/IGE/MICE || exit 1
+cd ~/BCR_IGE/BCR_IGE/MICE_sequences || exit 1
 mkdir -p "$WORKDIR"
 cd "$WORKDIR" || exit 1
 
@@ -71,4 +71,4 @@ fi
 
 rm "$IGE_CSV"
 
-echo "✅ Finished. Output in ~/BCR/IGE/MICE/${WORKDIR}"
+echo "✅ Finished. Output in ~/BCR_IGE/BCR_IGE/MICE_sequences/${WORKDIR}"
