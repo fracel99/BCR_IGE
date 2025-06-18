@@ -1,0 +1,16 @@
+Number of IGHE sequences:
+2
+
+Top v_gene usage:
+v_gene
+IGHV2-4     1
+IGHV1-50    1
+
+Top d_gene usage:
+Series([], )
+
+Top j_gene usage:
+j_gene
+IGHJ1    1
+IGHJ4    1
+
