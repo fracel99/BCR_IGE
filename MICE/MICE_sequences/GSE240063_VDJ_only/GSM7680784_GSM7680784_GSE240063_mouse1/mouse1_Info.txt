@@ -1,0 +1,18 @@
+Number of IGHE sequences:
+1
+
+Top V genes used:
+V_CALL.H
+V_CALL.H
+Musmus IGHV3-2    1
+
+Top D genes used:
+D_CALL.H
+D_CALL.H
+Musmus IGHD3-3    1
+
+Top J genes used:
+J_CALL.H
+J_CALL.H
+Musmus IGHJ4    1
+
