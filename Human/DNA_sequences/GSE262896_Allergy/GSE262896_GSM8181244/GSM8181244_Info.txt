@@ -1,0 +1,34 @@
+Number of IGHE sequences:
+6
+
+Top V genes used:
+      2 IGHV4-59
+      1 IGHV4-39
+      1 IGHV3-7
+      1 IGHV3-30
+      1 IGHV1-18
+
+Top D genes used:
+
+Top J genes used:
+      2 IGHJ6
+      2 IGHJ4
+      1 IGHJ5
+      1 IGHJ3
+
+Top V genes used by IGK paired with IGHE:
+      1 IGKV1-8
+
+Top J genes used by IGK paired with IGHE:
+      1 IGKJ5
+
+Top V genes used by IGL paired with IGHE:
+      2 IGLV6-57
+      1 IGLV3-27
+      1 IGLV1-47
+      1 IGLV1-44
+
+Top J genes used by IGL paired with IGHE:
+      3 IGLJ2
+      1 IGLJ3
+      1 IGLJ1

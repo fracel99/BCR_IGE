@@ -1,0 +1,22 @@
+Number of IGHE sequences:
+29
+
+Top v_gene usage:
+v_gene
+IGHV1-11    9
+IGHV1-76    1
+IGHV1-31    1
+IGHV1-72    1
+IGHV1-64    1
+
+Top d_gene usage:
+d_gene
+IGHD1-1    4
+
+Top j_gene usage:
+j_gene
+IGHJ4    21
+IGHJ2     5
+IGHJ1     2
+IGHJ3     1
+
